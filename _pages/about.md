@@ -36,7 +36,7 @@ Scholarly and Competitive Activities
 
 2022 ShuWei Cup IMCM [Meritorious](../assets/shuwei.png)
 
-2022 Attending (ITSAC 2022)[../assets/ITSAC.png], Chengdu
+2022 Attending [ITSAC 2022](../assets/ITSAC.png), Chengdu
 
 
 
