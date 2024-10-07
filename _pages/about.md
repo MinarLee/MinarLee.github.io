@@ -33,7 +33,7 @@ P, Li., C, Zhao., **M, Li.**, D, Zhang., Q, Luo., C,. Zhang, & W, Hu. (2024). An
 Scholarly and Competitive Activities
 ======
 2023 "Huashu Cup" International Mathematical Contest in Modeling [Meritorious]()
-2022 Asia and Pacific Mathematical Contest in Modeling [First Prize Postgraduate Group]()
+2022 Asia and Pacific Mathematical Contest in Modeling [First Prize Postgraduate Group](../assets/2204079_1APMCM.pdf)
 2022 ShuWei Cup IMCM [Meritorious]()
 2022 Attending (ITSAC 2022)[], Chengdu
 
