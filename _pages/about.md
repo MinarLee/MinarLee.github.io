@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a Ph.D student, Vehicle Operation Engineering, [School of Automobile, Chang’an University](https://www.chd.edu.cn/). My supervisor is [Prof. Shifeng NIU](https://js.chd.edu.cn/qcxy/nsf/list.htm). I recived my Master’s Degree in [School of Automobile & Transportation , Xihua University](https://qc.xhu.edu.cn/), supervised by [Prof. Daowen ZHANG](https://teacher.xhu.edu.cn/qcyjt/zdw/list.psp), and recived my Bachelor’s Degree in [Automotive Service Engineering, Chengdu Normal University](https://www.cdnu.edu.cn/wlgcxy/index/lgxw.htm).
+My research interest includes Big Data Mining, Automotive Active and Passive Safety Technology,  Reconstruction and Evaluation of Automatic Driving Test Scenarios. The research progress focuses on data-driven traffic accident risk identification and collaborative control, vehicle crash safety and human injury biomechanics.
+
+You can find my CV here: [MiN.L's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
 
 A data-driven personal website
 ======
