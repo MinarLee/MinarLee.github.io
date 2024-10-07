@@ -34,7 +34,7 @@ Scholarly and Competitive Activities
 ======
 2022 Asia and Pacific Mathematical Contest in Modeling. [First Prize](../assets/2204079_1APMCM.pdf) Postgraduate Group
 
-2022 ShuWei Cup IMCM [Meritorious]()
+2022 ShuWei Cup IMCM [Meritorious](../assets/shuwei.png)
 
 2022 Attending (ITSAC 2022)[], Chengdu
 
