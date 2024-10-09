@@ -24,11 +24,11 @@ Education
 
 Publications
 ======
-**M, Li.**, D, Zhang., Q, Liu., & T, Zhang. (2023). Driver injury from vehicle side impacts when automatic emergency braking and active seat belts are used. Sensors, 23(13), 5821. https://doi.org/10.3390/s23135821
+**M, Li.**, D, Zhang., Q, Liu., & T, Zhang. (2023). Driver injury from vehicle side impacts when automatic emergency braking and active seat belts are used. Sensors, 23(13), 5821. [https://doi.org/10.3390/s23135821](https://www.mdpi.com/1424-8220/23/13/5821)
 
-D, Zhang., **M, Li.**, S, Pang., & Q, Luo. (2023). Accident causes and its topological hierarchy analysis for heavy-duty trucks and two-wheelers. Journal Automotive Safety and Energy, 14(02), 157-164. doi: 10.3969/j.issn.1674-8484.2023.02.002
+D, Zhang., **M, Li.**, S, Pang., & Q, Luo. (2023). Accident causes and its topological hierarchy analysis for heavy-duty trucks and two-wheelers. Journal Automotive Safety and Energy, 14(02), 157-164. [10.3969/j.issn.1674-8484.2023.02.002](https://kns.cnki.net/kcms2/article/abstract?v=5l3vb1p_-rjjXGjNUFCEKXYvFrlrCIeKO4jHrq_CO8m2HFSFEOfLDkpjEbQpt14cqQ97pdswjSpDZB2mEiUUTwlFAtoMx6AHy311pjuHmlVYrEtKvsk-LsLjuV-pyIAUr4aBTPB8CM10mcKJDunIiFULmnJsch684tqYh5rOSslKlMVxeFThxyFjZF7749hr&uniplatform=NZKPT&language=CHS)
 
-P, Li., C, Zhao., **M, Li.**, D, Zhang., Q, Luo., C,. Zhang, & W, Hu. (2024). Analysis of pedestrian accident severity by considering temporal instability and heterogeneity. Heliyon, 10(11), e32013. https://doi.org/10.1016/j.heliyon.2024.e32013
+P, Li., C, Zhao., **M, Li.**, D, Zhang., Q, Luo., C,. Zhang, & W, Hu. (2024). Analysis of pedestrian accident severity by considering temporal instability and heterogeneity. Heliyon, 10(11), e32013. [https://doi.org/10.1016/j.heliyon.2024.e32013](https://www.cell.com/heliyon/fulltext/S2405-8440(24)08044-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405844024080447%3Fshowall%3Dtrue)
 
 
 Scholarly and Competitive Activities
